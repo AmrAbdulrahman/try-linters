@@ -19,6 +19,6 @@ gulp.task('lint:js', function() {
 // https://github.com/lesshint/lesshint/blob/master/lib/linters/README.md
 
 gulp.task('lint', [
-  //'lint:css',
+  'lint:css',
   'lint:js'
 ]);
