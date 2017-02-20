@@ -1,0 +1,13 @@
+input[type=text] {
+    border:none;
+    margin-bottom: 10px;
+    color: red;
+    margin-top: 10px;
+}
+
+#selector {
+  padding: 10px;
+  border: 1px solid red;
+  margni: 20px;
+  padding: 10px;
+}

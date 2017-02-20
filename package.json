@@ -1,0 +1,18 @@
+{
+  "name": "try-linters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csslint-stylish": "0.0.5",
+    "gulp": "^3.9.1",
+    "gulp-csslint": "^1.0.0",
+    "gulp-jslint": "^1.0.10",
+    "gulp-lesshint": "^3.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "order-alphabetical": true,
+  "emptyRules": true,
+  "shorthand": true,
+  "duplicate-properties": true,
+  "ids": true
+}
